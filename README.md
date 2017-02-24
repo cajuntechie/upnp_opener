@@ -3,10 +3,11 @@
 
 Requirements:
   Python 2.7+
+
   miniupnpc
   
  Usage:
-  upnp_open <remote_port> <destination_host> <destination_port>
+  upnp_open remote_port destination_host destination_port
   
  Author Email:
   anthony@cajuntechie.org
