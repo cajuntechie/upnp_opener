@@ -2,7 +2,7 @@
 ### A simple Python Script to forward ports on a UPnP device
 
 Requirements:
-  Python 2.7+
+  Python 2.7+,
   miniupnpc
   
  Usage:
